@@ -3,6 +3,6 @@
              x:Class="AvaloniaApplication6.App">
 
     <Application.Styles>
-        <FluentTheme Mode="Light"/>
+        <FluentTheme />
     </Application.Styles>
 </Application>

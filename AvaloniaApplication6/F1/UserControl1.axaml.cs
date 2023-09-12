@@ -10,8 +10,4 @@ public partial class UserControl1 : UserControl
     {
         InitializeComponent();
     }
-    private void InitializeComponent()
-    {
-        AvaloniaXamlLoader.Load(this);
-    }
 }
